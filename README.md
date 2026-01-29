@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> B. Abdul Rehman
 
-### 🚀 Data Analyst & BCA Student
+### 🚀 Aspiring Data Analyst & BCA Final Year Student
 **9.44 CGPA | Al Ameen Institute of Information Sciences**
 
 <p align="left">
