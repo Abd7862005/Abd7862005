@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=150&section=header&text=B.%20Abdul%20Rehman&fontSize=50&animation=fadeIn" width="100%"/>
-</div>
-
-# 👋 Hi, I'm B. Abdul Rehman
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> B. Abdul Rehman
 
 ### 🚀 Data Analyst & BCA Student
-**Academic Excellence: 9.44 CGPA** | Al Ameen Institute of Information Sciences
+**9.44 CGPA | Al Ameen Institute of Information Sciences**
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Transforming+raw+data+into+insights;Mastering+Python+and+SQL;Building+Data-Driven+Solutions;Seeking+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Transforming+raw+data+into+insights;Mastering+Python+and+SQL;Building+Data-Driven+Solutions;Seeking+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,23 +32,18 @@
 
 ---
 
-### 📬 Connect with me
+### 📬 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/b-abdul-rehman-32a393220" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
   </a>
   <a href="mailto:abdulrehman78620051@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
   </a>
 </p>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=100&section=footer" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
-
-
-
-<!---
-Abd7862005/Abd7862005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
