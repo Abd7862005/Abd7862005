@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=150&section=header&text=B.%20Abdul%20Rehman&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=150&section=header&text=B.%20Abdul%20Rehman&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 
+# 👋 Hi, I'm B. Abdul Rehman
+
 ### 🚀 Data Analyst & BCA Student
-**9.44 CGPA | Al Ameen Institute of Information Sciences**
+**Academic Excellence: 9.44 CGPA** | Al Ameen Institute of Information Sciences
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Transforming+raw+data+into+insights;Mastering+Python+and+SQL;Building+Data-Driven+Solutions;Seeking+Internship+Opportunities" alt="Typing SVG" />
@@ -37,16 +39,17 @@
 ### 📬 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/b-abdul-rehman-32a393220" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
   </a>
   <a href="mailto:abdulrehman78620051@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
   </a>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=100&section=footer" width="100%"/>
 </div>
+
 
 
 <!---
