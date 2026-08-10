@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> B. Abdul Rehman
 
-### 🚀 Aspiring Data Analyst & BCA Final Year Student
-**9.44 CGPA | Al Ameen Institute of Information Sciences**
+### 🚀 Aspiring Data Analyst & BCA Graduate
+**9.17 CGPA | Al Ameen Institute of Information Sciences**
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Transforming+raw+data+into+insights;Mastering+Python+and+SQL;Building+Data-Driven+Solutions;Seeking+Internship+Opportunities" alt="Typing SVG" />
